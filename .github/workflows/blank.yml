@@ -26,6 +26,7 @@ jobs:
     - name: Run proxy.py script
       run: |
         echo "Running proxy.py..."
+        pip install requests --break-system-packages
         python3 parse.py
     
     - name: Create proxy_data directory
