@@ -26,7 +26,7 @@ jobs:
     - name: Run proxy.py script
       run: |
         echo "Running proxy.py..."
-        python proxy.py
+        python3 parse.py
     
     - name: Create proxy_data directory
       run: |
