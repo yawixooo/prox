@@ -4,4 +4,4 @@ This directory contains automatically updated proxy lists.
 ## Files
 - `socks4_proxies.txt ` - Plain text list of proxies
 
-Last updated: 2026-03-06 00:28:16 UTC
+Last updated: 2026-03-06 03:06:05 UTC
